@@ -18,6 +18,6 @@
 
 
 #### Atcoder
-<a href="https://atcoder.jp/users/junah" target="_blank" title="wizardrabbit">
+<a href="https://atcoder.jp/users/wizardrabbit" target="_blank" title="wizardrabbit">
 		<img src="https://atcoder.junah.dev/v2/generate_badge?name=wizardrabbit" />
 </a>
