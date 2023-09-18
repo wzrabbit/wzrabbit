@@ -1,3 +1,5 @@
+**저는 4급 보충역입니다. 산업기능요원 편입을 희망합니다. 이력서 검토 시 참고해주시면 감사하겠습니다!**
+
 ### Front-End 🎨
 - React를 비롯한 프론트엔드의 라이브러리를 새롭게 접해보고 있어요!
 - 컴포넌트를 한땀한땀 만드는 것을 좋아하고, UI를 디자인하는 것과 CSS로 UI를 구현하는 것을 특히 좋아해요!
@@ -21,5 +23,3 @@
 <a href="https://atcoder.jp/users/wizardrabbit" target="_blank" title="wizardrabbit">
 		<img src="https://atcoder.junah.dev/v2/generate_badge?name=wizardrabbit" />
 </a>
-
-**저는 4급 보충역입니다. 산업기능요원 편입을 희망합니다. 이력서 검토 시 참고해주시면 감사하겠습니다!**
