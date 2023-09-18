@@ -21,3 +21,5 @@
 <a href="https://atcoder.jp/users/wizardrabbit" target="_blank" title="wizardrabbit">
 		<img src="https://atcoder.junah.dev/v2/generate_badge?name=wizardrabbit" />
 </a>
+
+**저는 4급 보충역입니다. 산업기능요원 편입을 희망합니다. 이력서 검토 시 참고해주시면 감사하겠습니다!**
