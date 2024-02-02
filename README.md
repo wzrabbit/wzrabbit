@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-✨Image by <b><a href="https://www.freepik.com/free-photo/magical-nighttime-landscape-with-sparkly-lights_38688529.htm#query=fantasy%20night%20forest&position=0&from_view=search&track=ais&uuid=83e9d83c-de40-4cfc-9598-7aae0a5126b5">Freepik✨</a></b>
+✨Image by <b><a href="https://www.freepik.com/">Freepik</a></b>✨
 </p>
