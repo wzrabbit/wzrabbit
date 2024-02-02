@@ -6,7 +6,7 @@
 
 <p align="center">
 📧 E-mail: <b><a href="mailto:curious.wzrabbit@gmail.com">curious.wzrabbit@gmail.com</a></b><br>
-🖥️ BOJ: <b><a href="https://acmicpc.net/profile/wizardrabbit">wizardrabbit</a></b>
+🖥️ BOJ: <b><a href="https://acmicpc.net/user/wizardrabbit">wizardrabbit</a></b>
 </p>
 
 <p align="center">
