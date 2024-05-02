@@ -12,3 +12,6 @@
 <p align="center">
 ✨Image by <b><a href="https://www.freepik.com/">Freepik</a></b>✨
 </p>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwzrabbit&count_bg=%23c79b5a&title_bg=%23222222&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true"/></a>
+</p>
