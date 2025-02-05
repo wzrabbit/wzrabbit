@@ -4,6 +4,10 @@
 
 <img src="https://github.com/wzrabbit/wzrabbit/assets/87642422/3d601f2a-26b0-4076-9525-a8e1409e9509" />
 
+<div align="center">
+  <a href="https://www.solve-nyang.com" style="text-align:center"><img src="https://api.solve-nyang.com/compose/wizardrabbit" width="600" height="300"/></a>
+</div>
+
 <p align="center">
 📧 E-mail: <b><a href="mailto:curious.wzrabbit@gmail.com">curious.wzrabbit@gmail.com</a></b><br>
 🖥️ BOJ: <b><a href="https://acmicpc.net/user/wizardrabbit">wizardrabbit</a></b>
