@@ -4,7 +4,14 @@
 </div>
 
 <div>
-  <img width="3080" height="2320" alt="door-stretching-into-fantasy-world" src="https://github.com/user-attachments/assets/6e8972fe-0f09-480f-9914-b3645c9d167f" />
+<img width="1968" height="33" alt="image" src="https://github.com/user-attachments/assets/a8ab6703-ffff-43ac-8c45-dbf20bd0eb3c" />
+
+
+
+  <img width="6912" height="3152" alt="anime-style-clouds" src="https://github.com/user-attachments/assets/59c2efec-eb5e-4c4f-88fc-fc7d74f67c29" />
+
+<img width="1968" height="33" alt="image" src="https://github.com/user-attachments/assets/a8ab6703-ffff-43ac-8c45-dbf20bd0eb3c" />
+
 
 </div>
 
