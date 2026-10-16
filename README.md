@@ -8,7 +8,8 @@
 
 
 
-  <img width="6912" height="3152" alt="anime-style-clouds" src="https://github.com/user-attachments/assets/59c2efec-eb5e-4c4f-88fc-fc7d74f67c29" />
+<img width="4000" height="2241" alt="illustration-fantasy-neon-forest-glowing-colorful-look-like-fairytale" src="https://github.com/user-attachments/assets/99a706f2-e00b-49e3-af4c-715b26936a52" />
+
 
 <img width="1968" height="33" alt="image" src="https://github.com/user-attachments/assets/a8ab6703-ffff-43ac-8c45-dbf20bd0eb3c" />
 
@@ -17,8 +18,4 @@
 
 <p align="center">
   📧 E-mail: <b><a href="mailto:curious.wzrabbit@gmail.com">curious.wzrabbit@gmail.com</a></b>
-</p>
-
-<p align="center">
-  ✨Image by <b><a href="https://www.freepik.com/">Magnific</a></b>✨
 </p>
